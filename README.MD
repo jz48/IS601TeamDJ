@@ -1,5 +1,5 @@
-#IS601 TeamDJ
+# IS601 TeamDJ
 
-##Here is first team task
+## Here is first team task
 
-##9/9/2020 Jiaxing Zhang
+## 9/9/2020 Jiaxing Zhang
