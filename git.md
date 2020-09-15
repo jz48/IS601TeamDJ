@@ -11,3 +11,5 @@ Git is a free and open source distributed version control system designed to han
 * Push – a git push updates the remote repository along with any commit that have been made locally to a branch
 * Pull - There are two kinds of pull: we can pull the remote branch/repository to our local git and update the changes made by others. We can also raise pull requests in a forked repository.
 * Remote Add – It adds a new remote for the repository.
+
+* Remote Remove – TBD it removes a remote, any and all remote-tracked branches and configuration settings are updated to reflect the changes.
