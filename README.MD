@@ -4,7 +4,7 @@
 
 ## 9/9/2020 Jiaxing Zhang
 
-##Collaborators: Jiaxing Zhang and Krishna Eleti
+## Collaborators: Jiaxing Zhang and Krishna Eleti
 
-#[What is *Git*?](/git.md)
+# [What is *Git*?](/git.md)
 
