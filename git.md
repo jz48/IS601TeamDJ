@@ -9,3 +9,4 @@ Git is a free and open source distributed version control system designed to han
 * Merge – A git merge is a command that lets a user take lines of code they developed in a git branch and assimilate them into a single branch. It will combine many commits into one.
 * Checkout - By using git checkout, we can switch to a branch we named.
 * Push – a git push updates the remote repository along with any commit that have been made locally to a branch
+* Pull - There are two kinds of pull: we can pull the remote branch/repository to our local git and update the changes made by others. We can also raise pull requests in a forked repository.
