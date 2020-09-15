@@ -21,7 +21,9 @@ Git is a free and open source distributed version control system designed to han
     We can check the status of the git by using git status, which 
     shows us the workspace of the git. We can also use git rm to  
     remove files from the remote repository and remove command to 
-    remove branches.
+    remove branches. We can get information of the commits by using 
+    git show.
+
 
 * Repository - A repository to store the files and git history
 * Clone – A git clone is a git command that allows a user to clone a repository into a new directory that which they choose
