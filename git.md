@@ -13,3 +13,4 @@ Git is a free and open source distributed version control system designed to han
 * Remote Add – It adds a new remote for the repository.
 
 * Remote Remove – TBD it removes a remote, any and all remote-tracked branches and configuration settings are updated to reflect the changes.
+* Remote  Show – gives information about the remote.
