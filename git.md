@@ -15,4 +15,5 @@ Git is a free and open source distributed version control system designed to han
 * Remote Remove – TBD it removes a remote, any and all remote-tracked branches and configuration settings are updated to reflect the changes.
 * Remote  Show – gives information about the remote.
 * Status - Git status is showing the status of the workspace, the files which are added and committed or not.
+* Master Branch – the main branch of a repository. Likened to a trunk of the tree.
 
