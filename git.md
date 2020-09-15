@@ -7,8 +7,13 @@ Git is a free and open source distributed version control system designed to han
     Basically, we have a remote repository and several 
     local repositories which are cloned from the remote 
     repository or another remote repository which is forked 
-    from the original one. We use git add and git commit commands to submit the change on the codes and documents. 
+    from the original one. We use git add and git commit 
+    commands to submit the change on the codes and documents. 
 
+    Here is a typical example: we create and checkout a new 
+    branch from the master branch. Then we add and commit 
+    the changes to the local git. After that, we can push 
+    them to the remote repository.
 
 * Repository - A repository to store the files and git history
 * Clone – A git clone is a git command that allows a user to clone a repository into a new directory that which they choose
