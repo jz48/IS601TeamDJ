@@ -8,4 +8,4 @@
 
 # [What is *Git*?](/git.md)
 
-# Git Terms
+# [Git Terms](/gitterms.md)
