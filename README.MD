@@ -7,4 +7,3 @@
 ## Collaborators: Jiaxing Zhang and Krishna Eleti
 
 # [What is *Git*?](/git.md)
-
