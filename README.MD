@@ -9,3 +9,4 @@
 # [What is *Git*?](/git.md)
 
 # [Git Terms](/gitterms.md)
+# [Git Log](/gitlogs.md)
